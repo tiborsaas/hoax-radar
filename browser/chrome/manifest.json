@@ -4,6 +4,9 @@
             "js": [
                 "content.js"
             ],
+            "css": [
+                "overlay.css"
+            ],
             "matches": [
                 "http://*/*",
                 "https://*/*"
@@ -23,5 +26,5 @@
         "tabs",
         "https://mkkp-hoax-radar.lazos.me/"
     ],
-    "version": "0.1.8"
+    "version": "0.2.0"
 }
